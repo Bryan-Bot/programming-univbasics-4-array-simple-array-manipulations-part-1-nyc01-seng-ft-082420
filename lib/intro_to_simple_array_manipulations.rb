@@ -8,5 +8,6 @@ def using_pop(array)
   array.pop
 end
 def pop_with_args(array)
+  breed = 2
   array.pop(breed)
 end
